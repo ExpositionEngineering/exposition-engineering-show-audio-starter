@@ -53,7 +53,7 @@ setup: |
         tag: html_block
         count: 2
         exact: false
-    - description: Confirm that the markdown file containing the audio identity has a label for a Canva link
+    - description: Confirm that the markdown file containing the audio identity has a label for an audio file link
       check: MatchFileFragment
       options:
         fragment: "**Link to the Web Site that Provided/Created Your Audio**"
