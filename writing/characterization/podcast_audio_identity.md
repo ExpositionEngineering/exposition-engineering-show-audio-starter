@@ -53,6 +53,7 @@ more podcast audio for intro and outro music.
 - [Podcast Music](https://www.podcastmusic.com/)
 - [Premium Production Music and SFX](https://www.premiumbeat.com/)
 - [Pixabay Royal Free Music](https://pixabay.com/music/)
+- [MusicFX from the Google AI Test Kitchen](https://aitestkitchen.withgoogle.com/tools/music-fx)
 
 TODO: Before getting started on this assignment make sure that you understand how to
 license music for use in a podcast.
