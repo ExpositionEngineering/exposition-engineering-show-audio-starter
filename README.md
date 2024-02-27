@@ -19,7 +19,7 @@
 ## 🏁 Introduction
 
 This project invites you to document and provide the audio for a podcast on the
-topic of picking an academic major at an undergraduate at an institution like
+topic of picking an academic major at an undergraduate institution like
 Allegheny College. In addition to writing all of the required content in the
 file
 [writing/characterization/podcast_audio_identity.md](writing/characterization/podcast_audio_identity.md),
